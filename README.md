@@ -1,5 +1,7 @@
 # StockFlow B2B Inventory Management - Case Study Solution
 
+You can read the full case study solution at : https://drive.google.com/file/d/14O7sujB0gBkrEGuWuk7PWuLzDNGYWpgV/view?usp=sharing
+
 This repository contains my solution for the StockFlow take-home assignment. The project is structured as a runnable Flask application and includes the full write-up, code fixes, database design, and API implementation.
 
 * `/app.py`: The main Flask application containing all API endpoints and SQLAlchemy models.
